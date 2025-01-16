@@ -8,3 +8,4 @@
 nginx
 python3.10
 node20
+postgres12
