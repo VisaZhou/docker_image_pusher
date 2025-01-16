@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 nginx
-python3.10
-node20
-postgres12
+python:3.10
+node:20
+postgres:12
 
