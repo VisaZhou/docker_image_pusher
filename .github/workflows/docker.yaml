@@ -3,12 +3,12 @@ name: Docker
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [ distinct ]
 
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
-  ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_NAME_SPACE }}"
+  ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_DISTINCT_NAME_SPACE }}"
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
 
