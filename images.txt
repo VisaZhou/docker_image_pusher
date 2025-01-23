@@ -12,3 +12,4 @@ postgres:12
 adminer
 schickling/mailcatcher
 traefik:3.0
+alpine
