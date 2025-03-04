@@ -14,3 +14,5 @@ schickling/mailcatcher
 traefik:3.0
 alpine
 openjdk:23-jdk-slim
+mysql:5.7
+nacos/nacos-server:v2.2.0
