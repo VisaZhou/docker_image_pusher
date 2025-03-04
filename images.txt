@@ -1,1 +1,1 @@
-nacos/nacos-server:latest-arm64
+nacos/nacos-server@sha256:b8fd27b7402aa83ff958105ce70bad60126e6e16ee3cd170caa99ee27267c442
