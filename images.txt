@@ -1,18 +1,1 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-
-nginx
-python:3.10
-node:20
-postgres:12
-adminer
-schickling/mailcatcher
-traefik:3.0
-alpine
-openjdk:23-jdk-slim
-mysql:5.7
-nacos/nacos-server:v2.2.0
+nacos/nacos-server:v2.5.0
