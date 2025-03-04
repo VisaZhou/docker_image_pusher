@@ -1,1 +1,1 @@
-nacos/nacos-server@sha256:b8fd27b7402aa83ff958105ce70bad60126e6e16ee3cd170caa99ee27267c442
+nacos/nacos-server:v2.5.0@sha256:ab8d4f04e4dc75e6a0727326bb049da21af11238ee5072a9e15e750d337b846d
