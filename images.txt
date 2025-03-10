@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.5.0@sha256:ab8d4f04e4dc75e6a0727326bb049da21af11238ee5072a9e15e750d337b846d
+openjdk:17-alpine
