@@ -1,1 +1,1 @@
-debian:bullseye-slim
+mysql:8.0
