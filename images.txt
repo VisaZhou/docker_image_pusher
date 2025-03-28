@@ -1,1 +1,1 @@
-arm64v8/mysql:8.0
+arm64v8/mysql:8.0.41-oracle
