@@ -1,1 +1,1 @@
-openjdk:8-jdk
+maven:3.9.9-openjdk-8
