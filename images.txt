@@ -1,1 +1,1 @@
-arm64v8/openjdk:8
+FROM nginx:1.18-alpine
