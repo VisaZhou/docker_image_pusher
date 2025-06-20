@@ -1,1 +1,2 @@
-FROM nginx:1.18-alpine
+openjdk:8
+openjdk:8-jre-alpine
