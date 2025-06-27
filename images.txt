@@ -1,2 +1,1 @@
-flowable/flowable-idm:7.0.0
-flowable/flowable-modeler:7.0.0
+kurento/kurento-media-server
