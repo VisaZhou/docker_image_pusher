@@ -1,1 +1,1 @@
-kurento/kurento-media-server:6.18.0
+python:3.9-slim
