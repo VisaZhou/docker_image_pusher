@@ -1,1 +1,1 @@
-eclipse-temurin:17-jre
+liqiangkingbase/kingbase8
