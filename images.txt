@@ -1,1 +1,1 @@
-liqiangkingbase/kingbase8
+ghcr.io/renfei/kingbase:v8r3
