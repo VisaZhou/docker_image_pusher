@@ -1,1 +1,3 @@
-ghcr.io/renfei/kingbase:v8r3
+grafana/loki:2.9.4
+grafana/grafana-oss:10.3.3
+grafana/promtail:2.9.4
