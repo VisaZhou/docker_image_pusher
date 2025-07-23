@@ -1,2 +1,1 @@
-grafana/loki:3.0.0
-grafana/promtail:3.0.0
+docker:24.0-dind
