@@ -1,1 +1,1 @@
-ghcr.io/fluent/fluentd:v1.16-debian-arm64
+arm64v8/fluentd:v1.16-debian-1
