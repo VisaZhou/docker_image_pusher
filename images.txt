@@ -1,1 +1,3 @@
-arm64v8/fluentd:v1.16-debian-1
+docker.elastic.co/elasticsearch/elasticsearch:7.5.0
+apache/skywalking-oap-server:8.3.0-es7
+apache/skywalking-ui:8.3.0
