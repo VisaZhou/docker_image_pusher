@@ -1,2 +1,2 @@
-ghcr.io/apache/skywalking/oap:10.3.0
-ghcr.io/apache/skywalking/ui:10.3.0
+ghcr.io/apache/skywalking/oap:latest
+ghcr.io/apache/skywalking/ui:latest
