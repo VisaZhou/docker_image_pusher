@@ -1,1 +1,1 @@
-ghcr.io/apache/skywalking-banyandb:84f32b3969cdcc676aaee428383b34b3b67dbdf5
+prom/prometheus:3.5.0
