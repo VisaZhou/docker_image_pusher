@@ -1,1 +1,1 @@
-registry.k8s.io/etcd:3.5.16-0
+registry.k8s.io/pause:3.8
