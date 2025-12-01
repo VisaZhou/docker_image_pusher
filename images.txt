@@ -1,1 +1,1 @@
-openjdk:21-jdk
+eclipse-temurin:21-jdk
