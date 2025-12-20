@@ -1,1 +1,2 @@
-eclipse-temurin:21-jdk
+docker.io/sonatype/nexus3
+cgr.dev/chainguard/bash
