@@ -1,1 +1,1 @@
-/dockerhub_mirror/java:17-anolis
+dockerhub_mirror/java:17-anolis
