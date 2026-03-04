@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.5.0
+/dockerhub_mirror/java:17-anolis
