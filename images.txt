@@ -1,1 +1,4 @@
-registry.cn-hangzhou.aliyuncs.com/dockerhub_mirror/java:17-anolis
+arm64v8/postgres:15
+apache/doris:fe-4.0.1-cir19743
+apache/doris:be-4.0.1-cir19743
+arm64v8/flink:latest
