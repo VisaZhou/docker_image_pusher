@@ -1,4 +1,1 @@
-arm64v8/postgres:15
-apache/doris:fe-4.0.1-cir19743
-apache/doris:be-4.0.1-cir19743
-arm64v8/flink:latest
+rabbitmq:3.8.8-management
