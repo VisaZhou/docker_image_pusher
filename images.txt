@@ -1,1 +1,1 @@
-rabbitmq:3.8.8-management
+ubuntu:24.04
